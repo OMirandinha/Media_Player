@@ -1,0 +1,15 @@
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\bin\Debug\Media Player C#.exe.config
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\bin\Debug\Media Player C#.exe
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\bin\Debug\Media Player C#.pdb
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\bin\Debug\Interop.WMPLib.dll
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\obj\Debug\Media Player C#.csproj.AssemblyReference.cache
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\obj\Debug\Interop.WMPLib.dll
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\obj\Debug\Media Player C#.csproj.ResolveComReference.cache
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\obj\Debug\Media_Player_C_.Form1.resources
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\obj\Debug\Media_Player_C_.Properties.Resources.resources
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\obj\Debug\Media Player C#.csproj.GenerateResource.cache
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\obj\Debug\Media Player C#.csproj.CoreCompileInputs.cache
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\obj\Debug\Media Player C#.exe
+C:\Users\viito\source\repos\Media Player C#\Media Player C#\obj\Debug\Media Player C#.pdb
